@@ -1,4 +1,3 @@
-// components/CallToAction.jsx
 import "./AboutSchool.css";
 
 const AboutSchool = () => {
