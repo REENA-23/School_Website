@@ -1,4 +1,4 @@
-/* ===== HEADER WRAPPER ===== */
+/*  HEADER WRAPPER  */
 .header {
   width: 100%;
   background-color: #ffffff;
@@ -14,7 +14,7 @@
   z-index: 1000;
 }
 
-/* ===== LOGO SECTION ===== */
+/* LOGO SECTION  */
 .logo {
   display: flex;
   align-items: center;
@@ -71,7 +71,7 @@
   width: 100%;
 }
 
-/* ===== ACTIVE LINK (optional) ===== */
+/*  ACTIVE LINK  */
 .header nav a.active {
   color: #525252;
   font-weight: 700;
@@ -85,7 +85,7 @@
 
 
 
-/* ===== RESPONSIVE ===== */
+/* RESPONSIVE  */
 @media (max-width: 1024px) {
   .header {
     padding: 12px 20px;
