@@ -6,7 +6,7 @@
   z-index: 1000;
 }
 
-/* ================= WHITE BAR ================= */
+/*  WHITE BAR  */
 .about-top-bar {
   height: 48px;
   background: #ffffff;
@@ -29,7 +29,7 @@
   font-weight: 500;
 }
 
-/* ================= BLUE BAR ================= */
+/* BLUE BAR  */
 .about-blue-bar {
   background: #3f51b5;
   padding: 22px 0 16px;
@@ -44,7 +44,7 @@
   padding: 0 40px;
 }
 
-/* ================= LOGO ================= */
+/*  LOGO  */
 .about-logo {
   position: absolute;
   left: 40px;
@@ -59,7 +59,7 @@
   width: 164.5px;
   height: 160px;}
 
-/* ================= CONTENT ================= */
+/* CONTENT  */
 .about-content {
   margin-left: 220px; /* space for logo */
   width: 100%;
