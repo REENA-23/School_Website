@@ -1,6 +1,4 @@
-/* ===============================
-   SECTION WRAPPER (CENTER + GAP)
-================================ */
+/* SECTION WRAPPER (CENTER + GAP)*/
 .filter-section {
   display: flex;
   justify-content: center;
@@ -9,9 +7,7 @@
   margin: 60px 0; /* top & bottom gap */
 }
 
-/* ===============================
-   MAIN PILL CONTAINER
-================================ */
+/* MAIN PILL CONTAINER */
 .filter-tabs {
   display: flex;
   align-items: center;
@@ -26,9 +22,7 @@
   box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.25);
 }
 
-/* ===============================
-   TAB BUTTON
-================================ */
+/* TAB BUTTON */
 .filter-tab {
   border: none;
   background: transparent;
@@ -45,9 +39,7 @@
   transition: all 0.3s ease;
 }
 
-/* ===============================
-   ACTIVE TAB
-================================ */
+/*ACTIVE TAB */
 .filter-tab.active {
   background-color: #ffffff;
   color: #f0942a;
@@ -55,16 +47,12 @@
   box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.12);
 }
 
-/* ===============================
-   HOVER EFFECT
-================================ */
+/* HOVER EFFECT */
 .filter-tab:hover {
   opacity: 0.9;
 }
 
-/* ===============================
-   RESPONSIVE
-================================ */
+/* RESPONSIVE*/
 @media (max-width: 768px) {
   .filter-tabs {
     padding: 6px 24px;
