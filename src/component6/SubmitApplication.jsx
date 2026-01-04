@@ -1,7 +1,4 @@
-import React from "react";
 import "./SubmitApplication.css";
-
-// ⬆️ replace with your actual image path
 
 const SubmitApplication = () => {
   return (
