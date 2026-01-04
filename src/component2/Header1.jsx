@@ -8,8 +8,8 @@ const Header1 = () => {
       {/* WHITE TOP BAR */}
       <div className="about-top-bar">
         <div className="top-right">
-          <a href="#">✏ Admission Form</a>
-          <span>📞 (914) 703-2250</span>
+          <a href="#">Admission Form</a>
+          <span> (914) 703-2250</span>
         </div>
       </div>
 
