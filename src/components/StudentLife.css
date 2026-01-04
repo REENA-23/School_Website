@@ -1,16 +1,10 @@
-/* ============================= */
 /* STUDENT LIFE SECTION */
-/* ============================= */
-
 .student-life {
   padding: 80px 60px;
   background-color: #ffffff;
 }
 
-/* ============================= */
 /* TITLE */
-/* ============================= */
-
 .student-life-title {
   display: flex;
   justify-content: center;
@@ -32,21 +26,16 @@
   letter-spacing: 1px;
 }
 
-/* ============================= */
-/* CARD WRAPPER */
-/* ============================= */
 
+/* CARD WRAPPER */
 .student-life-card {
-  position: relative;          /* 🔑 anchor for overlap */
+  position: relative;          
   max-width: 1272px;
   margin: 0 auto;
   height: 421px;
 }
 
-/* ============================= */
 /* IMAGE */
-/* ============================= */
-
 .student-life-image {
   width: 65%;
   height: 100%;
@@ -61,12 +50,10 @@
   display: block;
 }
 
-/* ============================= */
-/* OVERLAPPING CONTENT CARD */
-/* ============================= */
 
+/* OVERLAPPING CONTENT CARD */
 .student-life-content {
-  position: absolute;          /* 🔑 overlap happens here */
+  position: absolute;
   top: 50%;
   right: 0;
   transform: translateY(-50%);
@@ -80,10 +67,8 @@
   box-sizing: border-box;
 }
 
-/* ============================= */
-/* TEXT */
-/* ============================= */
 
+/* TEXT */
 .student-life-content h3 {
   font-size: 18px;
   font-weight: 600;
@@ -104,10 +89,7 @@
   cursor: pointer;
 }
 
-/* ============================= */
 /* DOTS */
-/* ============================= */
-
 .student-life-dots {
   display: flex;
   justify-content: center;
@@ -126,10 +108,7 @@
   background-color: #f0942a;
 }
 
-/* ============================= */
 /* RESPONSIVE */
-/* ============================= */
-
 @media (max-width: 1024px) {
   .student-life-card {
     height: auto;
