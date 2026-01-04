@@ -1,4 +1,4 @@
-/* ===== MAIN SECTION ===== */
+/* MAIN SECTION  */
 .life-section {
   display: grid;
   grid-template-columns: 1.2fr 1fr;
@@ -9,14 +9,14 @@
 
 }
 
-/* ===== LEFT GRID ===== */
+/*  LEFT GRID  */
 .life-cards {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 40px;
 }
 
-/* ===== CARD ===== */
+/*  CARD  */
 .life-card {
   border: 2px solid #4b61d1;
   border-radius: 180px 180px 20px 20px;
