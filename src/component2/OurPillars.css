@@ -1,4 +1,4 @@
-/* ===== SECTION ===== */
+/*  SECTION  */
 .pillars-section {
   width: 100%;
   padding: 80px 0;
@@ -6,7 +6,7 @@
   font-family: "Poppins", sans-serif;
 }
 
-/* ===== HEADING ===== */
+/*  HEADING  */
 .pillars-heading {
   display: flex;
   flex-direction: column;
@@ -30,7 +30,7 @@
   border-radius: 2px;
 }
 
-/* ===== MAIN WHITE CARD ===== */
+/*  MAIN WHITE CARD  */
 .pillars-wrapper {
   max-width: 1272px;
   margin: auto;
@@ -52,7 +52,7 @@
   border-radius: 16px 16px 0 0;
 }
 
-/* ===== CARDS GRID ===== */
+/*  CARDS GRID  */
 .pillars-cards {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
@@ -60,7 +60,7 @@
   text-align: center;
 }
 
-/* ===== SINGLE CARD ===== */
+/*  SINGLE CARD  */
 .pillar-card {
   display: flex;
   flex-direction: column;
@@ -94,7 +94,7 @@
   text-align: center;
 }
 
-/* ===== RESPONSIVE ===== */
+/*  RESPONSIVE  */
 @media (max-width: 1200px) {
   .pillars-cards {
     grid-template-columns: repeat(3, 1fr);
