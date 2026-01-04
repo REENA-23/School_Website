@@ -1,4 +1,4 @@
-/* ===== SECTION ===== */
+/* SECTION */
 .principal-section {
   width: 100%;
   background: #ffffff;
@@ -6,7 +6,7 @@
   font-family: "Poppins", sans-serif;
 }
 
-/* ===== CONTAINER ===== */
+/*  CONTAINER  */
 .principal-container {
   max-width: 1274px;
   margin: auto;
@@ -28,7 +28,7 @@
 }
 
 
-/* ===== IMAGE SIDE ===== */
+/*  IMAGE SIDE  */
 .principal-image-wrapper {
   flex: 0 0 415px;
   display: flex;
@@ -52,7 +52,7 @@
   object-fit: cover;
 }
 
-/* ===== CONTENT SIDE ===== */
+/*  CONTENT SIDE  */
 .principal-content {
   flex: 1;
 }
